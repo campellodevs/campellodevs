@@ -1,14 +1,38 @@
-👋 Olá, Eu sou @campellodevs!
-Bem-vindo ao meu perfil do GitHub!  🚀
+# 👋 Hi, I'm Lucca Campello  
 
-Sobre Mim
-🌍 Localização: São Paulo, SP, Brasil
-🔭 Atualmente trabalhando em: []
-🌱 Estou aprendendo: Python, React.js, (HTML & CSS) JavaScript, C#
-👯 Estou procurando colaborar em: Projetos Tech que me ajudem a me desenvolver como profissional
-📫 Como me encontrar: contatocampello21@gmail.com
-⚡ Fato curioso: Odeio ficar parado, sempre estou procurando algo pra passar o tempo.
+🎓 Software Engineering student (3rd semester) passionate about technology, problem-solving, and building systems that truly make a difference in everyday life.  
+💻 Currently training at **Vexper Sistemas**, working with **Hotline** and **Firebird Database**, while constantly expanding my knowledge into modern stacks.  
 
+---
 
+## 🚀 Hard Skills  
 
+- **Back-End**: Python (FastAPI, Flask), Node.js  
+- **Databases**: SQLite, MySQL, MongoDB, Firebird  
+- **Front-End**: React, TailwindCSS, JavaScript  
+- **Best Practices**: Project architecture, Git/GitHub version control, unit testing (pytest)  
+- **Methodologies**: Scrum, Squad-based teamwork, Agile in practice  
 
+---
+
+## 📌 Highlight Projects  
+
+- **Filtra NCM** 🛒 — A complete system for NCM validation and product CRUD, using SQLite, FastAPI, automated testing, and Swagger documentation.  
+
+---
+
+## 🎯 Career Goal  
+
+I’m looking for a **Software Engineering internship** where I can apply my skills in **system development, databases, and agile methodologies**, while learning from experienced professionals and creating real impact.  
+
+---
+
+## 📫 Contact  
+
+- 📧 Email: **luccacampello21@gmail.com**  
+- 📱 Phone: **+55 (11) 99349-5934**  
+- 💼 LinkedIn: [linkedin.com/in/luccacampello](https://www.linkedin.com/in/lucca-campello-r-santos-7a4b83344/)  
+- 💻 GitHub: [github.com/campellodevs](https://github.com/campellodevs)  
+
+---
+✨ Always open to new challenges and opportunities to grow as a developer and professional.  
