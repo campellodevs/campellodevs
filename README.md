@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucca Campello  
 
-🎓 Software Engineering student (3rd semester) passionate about technology, problem-solving, and building systems that truly make a difference in everyday life.  
+🎓 Software Engineering student (4rd semester) passionate about technology, problem-solving, and building systems that truly make a difference in everyday life.  
 💻 Currently training at **Vexper Sistemas**, working with **SQL** and **Firebird Database**, while constantly expanding my knowledge into modern stacks.  
 
 ---
@@ -9,8 +9,8 @@
 
 - **Back-End**: Python (FastAPI, Flask), Node.js  
 - **Databases**: SQLite, MySQL, MongoDB, Firebird  
-- **Front-End**: React, TailwindCSS, JavaScript  
-- **Best Practices**: Project architecture, Git/GitHub version control, unit testing (pytest)  
+- **Front-End**: React, TailwindCSS, JavaScript, TypeScript
+- **Best Practices**: Project architecture, Git/GitHub version control
 - **Methodologies**: Scrum, Squad-based teamwork, Agile in practice  
 
 ---
