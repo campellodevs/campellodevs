@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lucca Campello  
 
 🎓 Software Engineering student (4rd semester) passionate about technology, problem-solving, and building systems that truly make a difference in everyday life.  
-💻 Currently training at **Vexper Sistemas**, working with **SQL** and **Firebird Database**, while constantly expanding my knowledge into modern stacks.  
 
 ---
 
