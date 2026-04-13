@@ -7,7 +7,7 @@
 ## 🚀 Hard Skills  
 
 - **Back-End**: Python (FastAPI, Flask), Node.js  
-- **Databases**: SQLite, MySQL, MongoDB, Firebird  
+- **Databases**: SQLite, MySQL, PostgresSQL, Firebird, Prisma ORM, Supabase
 - **Front-End**: React, TailwindCSS, JavaScript, TypeScript
 - **Best Practices**: Project architecture, Git/GitHub version control
 - **Methodologies**: Scrum, Squad-based teamwork, Agile in practice  
